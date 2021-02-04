@@ -4,13 +4,13 @@
 
 ## Commands: (All to be typed in Proxy Channel)
 
-- **merchant
+- **merchant**
   - Opens Merchant (for outside dungeon only)
-- **gbank
+- **gbank**
   - Opens guild bank
-- **bank
+- **bank**
   - Opens bank
-- **petbank
+- **petbank**
   - Opens pet bank.
 - **wardrobe**
   - Opens dressing room
