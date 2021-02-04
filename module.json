@@ -1,12 +1,12 @@
 {
-    "name": "NPC-Select",
+    "name": "Graffiti",
     "author": "Graffiti",
     "description": "Uses NPCs with proxy commands",
     "disableAutoUpdate": false,
     "version": "1.0",
     "options": {
-        "niceName": "NPC Selection",
-        "guiName": "NPC Selection",
+        "niceName": "Graffiti",
+        "guiName": "Graffiti",
         "settingsVersion": 1,
         "settingsFile": "config.json",
         "settingsMigrator": "settings_migrator.js",
