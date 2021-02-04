@@ -13,6 +13,6 @@
         "settingsAutosaveOnClose": true,
         "reloadable": true
     },
-    "servers": ["https://raw.githubusercontent.com/palvaloo/Banker/master/"],
-    "supportUrl": "https://github.com/palvaloo/Banker/README.md"
+    "servers": ["https://raw.githubusercontent.com/Graffiti-Graffiti/Graffiti/master/"],
+    "supportUrl": "https://raw.githubusercontent.com/Graffiti-Graffiti/Graffiti/master/"
 }
