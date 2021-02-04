@@ -1,6 +1,6 @@
 ## Info:
 
--- Allows you to open bank, guild bank, petbank, dressing room (wardrobe), and merchant (outside dungeon-only for merchant).
+Allows you to open bank, guild bank, petbank, dressing room (wardrobe), and merchant (outside dungeon-only for merchant).
 
 ## Commands: (All to be typed in Proxy Channel)
 
