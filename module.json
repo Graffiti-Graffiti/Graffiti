@@ -1,0 +1,16 @@
+{
+    "name": "NPC-Select",
+    "author": "Toads",
+    "description": "Uses NPCs with proxy commands",
+    "disableAutoUpdate": true,
+    "version": "1.0",
+    "options": {
+        "niceName": "NPC Selection",
+        "guiName": "NPC Selection",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsAutosaveOnClose": true,
+        "reloadable": true
+    }    
+}
