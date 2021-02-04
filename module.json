@@ -12,5 +12,7 @@
         "settingsMigrator": "settings_migrator.js",
         "settingsAutosaveOnClose": true,
         "reloadable": true
-    }    
+    },
+    "servers": ["https://raw.githubusercontent.com/palvaloo/Banker/master"],
+  "supportUrl": "https://github.com/palvaloo/Banker/README.md"    
 }
