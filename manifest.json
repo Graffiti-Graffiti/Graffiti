@@ -1,0 +1,15 @@
+{
+    "files": {
+        "README.md": "81134fe7bfc95d183739f237c546563fbf3ca4423af23073fab8fcdfa97d42eb",
+        "config.json": "7d3c9baafae5d7d71c8270223e304e6073965ba2e2b9ac4c9ed2c7f1aeeece62",
+        "def/C_REQUEST_CONTRACT.999.def": "25e5c8f60212faaf38ad041b765cdb84a5abebc1517f0da6b97d37edfb9a5acd",
+        "index.js": "26d41bc1a231cc34ccac5164cdec351bf63d86214ddf06b4dfaffe3ae796f70c",
+        "module.config.json": "fccfa1f9e19b11a6d58abbc07369f696ed9ea3873e263f6a2adf8e04d672d4d4",
+        "module.json": "3a58847fc904307d9c540a64dcc29a63a49f2d7635fe3f7a8d506e30d6d6c625",
+        "settings_migrator.js": "2c947a39bc16028cc38995b4ffa4b22e7e10d1414b697ad2f8b5167803f4226a"
+    },
+    "defs": {
+        "C_NPC_CONTACT": "savesettings",
+        "S_GUILD_NAME": "writebiguint64le"
+    }
+}
