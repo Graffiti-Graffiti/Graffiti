@@ -2,7 +2,7 @@
     "name": "NPC-Select",
     "author": "Toads",
     "description": "Uses NPCs with proxy commands",
-    "disableAutoUpdate": true,
+    "disableAutoUpdate": false,
     "version": "1.0",
     "options": {
         "niceName": "NPC Selection",
