@@ -1,4 +1,4 @@
-## Info:
+## Info (Updated):
 
 Allows you to open bank, guild bank, petbank, dressing room (wardrobe), and merchant (outside dungeon-only for merchant).
 
