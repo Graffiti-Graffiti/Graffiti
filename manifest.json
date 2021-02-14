@@ -2,15 +2,14 @@
     "files": {
         "config.json": "b2d13ff3131031290846be5faecc4b6a062545480a2ae4ace2d258d7513e109d",
         "def/C_REQUEST_CONTRACT.999.def": "25e5c8f60212faaf38ad041b765cdb84a5abebc1517f0da6b97d37edfb9a5acd",
-        "index.js": "4e516d2d176d5ded41002d3b767413a9218e4b12998972608dc30e1550f2ae9b",
+        "index.js": "93b57083afe90b2e0108748ad158eeaa4ed5b8a725bba8a69bcf44a4343ce416",
         "module.config.json": "c0a16dfca2dc00eb2f4c5670a98fcc163fd4f85c34b04fe825e6c3e79de88ca1",
         "module.json": "f98bf2bb062c3b1acd8566d8d62563da3f642406fc3267fdce52a0df39d018bc",
         "settings_migrator.js": "2c947a39bc16028cc38995b4ffa4b22e7e10d1414b697ad2f8b5167803f4226a"
     },
     "defs": {
-        "C_NPC_CONTACT": "send",
-        "C_REQUEST_CONTRACT": "exports",
-        "S_GUILD_NAME": "command",
-        "S_LOGIN": "npccreatureid"
+        "C_NPC_CONTACT": "22lkirvp",
+        "C_REQUEST_CONTRACT": "335173wqchml",
+        "S_GUILD_NAME": "1gynmqk"
     }
 }
