@@ -1,15 +1,15 @@
 {
     "files": {
-        "config.json": "b2d13ff3131031290846be5faecc4b6a062545480a2ae4ace2d258d7513e109d",
+        "config.json": "e5f745ae52504d2edf0b43ea49b6b18470d3f9cd9ce62ed5445f82bfc0a6a82e",
         "def/C_REQUEST_CONTRACT.999.def": "25e5c8f60212faaf38ad041b765cdb84a5abebc1517f0da6b97d37edfb9a5acd",
-        "index.js": "f4a436450b3b49049becbd344bd0e5da62303937ec6669b25f3b6534cb044c06",
+        "index.js": "cb88f6b528f59aeb9d7b155c52b3fd7d9e7b4fe530fe82478c7745df6aea04c1",
         "module.config.json": "c0a16dfca2dc00eb2f4c5670a98fcc163fd4f85c34b04fe825e6c3e79de88ca1",
         "module.json": "f98bf2bb062c3b1acd8566d8d62563da3f642406fc3267fdce52a0df39d018bc",
         "settings_migrator.js": "2c947a39bc16028cc38995b4ffa4b22e7e10d1414b697ad2f8b5167803f4226a"
     },
     "defs": {
-        "C_NPC_CONTACT": "s_login",
-        "C_REQUEST_CONTRACT": "merchant",
-        "S_GUILD_NAME": "majorpatchversion"
+        "C_NPC_CONTACT": "npccreatureid",
+        "C_REQUEST_CONTRACT": "valueparam",
+        "S_GUILD_NAME": "1254811zeucza"
     }
 }
