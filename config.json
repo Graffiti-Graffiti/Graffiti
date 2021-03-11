@@ -51,7 +51,7 @@
         },
         "merchant": {
             "ContractType": 9,
-            "NpcCreatureId": "3518437209221560",
+            "NpcCreatureId": "3518437209211521",
             "ValueParam": 70310,
             "ContractRequestee": "",
             "BufferVal": "70310",

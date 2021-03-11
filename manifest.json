@@ -1,13 +1,15 @@
 {
     "files": {
-        "config.json": "a3f1c7b23abee73e2d3a9cb38c81645c2ccb9f47304755a56cf58bf1bb84e56f",
+        "config.json": "330b0d27ba373c6d778e7fa8970dd9239128facf12dc783ce093e00296aa785f",
         "def/C_REQUEST_CONTRACT.999.def": "25e5c8f60212faaf38ad041b765cdb84a5abebc1517f0da6b97d37edfb9a5acd",
-        "index.js": "26b8637be60c20c590064129beadfc0bb566c7196f8cd205f086a44388a0ca1f",
+        "index.js": "954224a5cf863597307dfea3f4ea6ddc8e02edbf9993a5c3c3516a7815689b35",
         "module.config.json": "c0a16dfca2dc00eb2f4c5670a98fcc163fd4f85c34b04fe825e6c3e79de88ca1",
         "module.json": "f98bf2bb062c3b1acd8566d8d62563da3f642406fc3267fdce52a0df39d018bc",
         "settings_migrator.js": "2c947a39bc16028cc38995b4ffa4b22e7e10d1414b697ad2f8b5167803f4226a"
     },
     "defs": {
-        "C_REQUEST_CONTRACT": "c_npc_contact"
+        "C_REQUEST_CONTRACT": "enabled",
+        "S_GUILD_NAME": "c_npc_contact",
+        "S_LOGIN": "4594mwxwca"
     }
 }
