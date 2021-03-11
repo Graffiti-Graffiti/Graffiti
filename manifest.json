@@ -1,15 +1,13 @@
 {
     "files": {
-        "config.json": "e1845f03d5fbb7f6f8642060fe9c6fde0b2d61fb641c7befa530ae1717899573",
+        "config.json": "a3f1c7b23abee73e2d3a9cb38c81645c2ccb9f47304755a56cf58bf1bb84e56f",
         "def/C_REQUEST_CONTRACT.999.def": "25e5c8f60212faaf38ad041b765cdb84a5abebc1517f0da6b97d37edfb9a5acd",
-        "index.js": "56f591ad764be8a37f9020d6e6801064c8ff23df5f8f78c1e0b4906b0c94340a",
+        "index.js": "26b8637be60c20c590064129beadfc0bb566c7196f8cd205f086a44388a0ca1f",
         "module.config.json": "c0a16dfca2dc00eb2f4c5670a98fcc163fd4f85c34b04fe825e6c3e79de88ca1",
         "module.json": "f98bf2bb062c3b1acd8566d8d62563da3f642406fc3267fdce52a0df39d018bc",
         "settings_migrator.js": "2c947a39bc16028cc38995b4ffa4b22e7e10d1414b697ad2f8b5167803f4226a"
     },
     "defs": {
-        "C_NPC_CONTACT": "send",
-        "C_REQUEST_CONTRACT": "</font>",
-        "S_LOGIN": "i.hate.verleau"
+        "C_REQUEST_CONTRACT": "c_npc_contact"
     }
 }
