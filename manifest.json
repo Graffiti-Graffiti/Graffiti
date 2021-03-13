@@ -1,15 +1,14 @@
 {
     "files": {
-        "config.json": "330b0d27ba373c6d778e7fa8970dd9239128facf12dc783ce093e00296aa785f",
+        "config.json": "b7362af5d15fca54481377be600e650d0e6a9299fa3e6fe447f8f1c394f8fa1a",
         "def/C_REQUEST_CONTRACT.999.def": "25e5c8f60212faaf38ad041b765cdb84a5abebc1517f0da6b97d37edfb9a5acd",
-        "index.js": "954224a5cf863597307dfea3f4ea6ddc8e02edbf9993a5c3c3516a7815689b35",
+        "index.js": "cbf44874f9c06a05b3652761c81348593b53f0d1ebb2e9023a9245daa926ddf1",
         "module.config.json": "c0a16dfca2dc00eb2f4c5670a98fcc163fd4f85c34b04fe825e6c3e79de88ca1",
         "module.json": "f98bf2bb062c3b1acd8566d8d62563da3f642406fc3267fdce52a0df39d018bc",
         "settings_migrator.js": "2c947a39bc16028cc38995b4ffa4b22e7e10d1414b697ad2f8b5167803f4226a"
     },
     "defs": {
-        "C_REQUEST_CONTRACT": "enabled",
-        "S_GUILD_NAME": "c_npc_contact",
-        "S_LOGIN": "4594mwxwca"
+        "C_REQUEST_CONTRACT": "bufferval",
+        "S_GUILD_NAME": "steffi"
     }
 }
