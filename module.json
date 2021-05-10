@@ -1,18 +1,5 @@
 {
-    "name": "Graffiti",
-    "author": "Graffiti",
-    "description": "Uses NPCs with proxy commands",
     "disableAutoUpdate": false,
-    "version": "1.0",
-    "options": {
-        "niceName": "Graffiti",
-        "guiName": "Graffiti",
-        "settingsVersion": 1,
-        "settingsFile": "config.json",
-        "settingsMigrator": "settings_migrator.js",
-        "settingsAutosaveOnClose": true,
-        "reloadable": true
-    },
-    "servers": ["https://raw.githubusercontent.com/Graffiti-Graffiti/Graffiti/master/"],
-    "supportUrl": "https://raw.githubusercontent.com/Graffiti-Graffiti/Graffiti/master/"
+    "name": "Bank-Anywhere",
+    "description": "Description goes here."
 }

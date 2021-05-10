@@ -1,14 +1,13 @@
 {
     "files": {
-        "config.json": "b7362af5d15fca54481377be600e650d0e6a9299fa3e6fe447f8f1c394f8fa1a",
-        "def/C_REQUEST_CONTRACT.999.def": "25e5c8f60212faaf38ad041b765cdb84a5abebc1517f0da6b97d37edfb9a5acd",
-        "index.js": "cbf44874f9c06a05b3652761c81348593b53f0d1ebb2e9023a9245daa926ddf1",
-        "module.config.json": "c0a16dfca2dc00eb2f4c5670a98fcc163fd4f85c34b04fe825e6c3e79de88ca1",
-        "module.json": "f98bf2bb062c3b1acd8566d8d62563da3f642406fc3267fdce52a0df39d018bc",
-        "settings_migrator.js": "2c947a39bc16028cc38995b4ffa4b22e7e10d1414b697ad2f8b5167803f4226a"
+        "config.json": "9651bd7d5aee8cf47a4d2faacc2214ff6af9d9c434510774c4f4caedab0a4a8a",
+        "index.js": "dc0f2a67b714985c6c0ac1fe4ea1231fcd10999c61640edb4207eb21c3ddd86a",
+        "module.config.json": "fccfa1f9e19b11a6d58abbc07369f696ed9ea3873e263f6a2adf8e04d672d4d4",
+        "module.json": "3e64f41c7ff6cf79f00c269c3f8706d065c8bace978afe7514c65f0ee4c8d1c5",
+        "settings_migrator.js": "c28aedbedbe2be611548ed6179eba313c49362c95aa2136965810ecfe31e8d63"
     },
     "defs": {
-        "C_REQUEST_CONTRACT": "bufferval",
-        "S_GUILD_NAME": "steffi"
+        "C_NPC_CONTACT": "remove",
+        "S_LOGIN": "mysthriel"
     }
 }
