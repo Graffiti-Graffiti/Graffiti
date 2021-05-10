@@ -1,5 +1,17 @@
 {
+    "name": "NPC-Select",
+    "author": "Toads",
+    "description": "Uses NPCs with proxy commands",
     "disableAutoUpdate": false,
-    "name": "Bank-Anywhere",
-    "description": "Description goes here."
+    "version": "1.0",
+    "options": {
+        "niceName": "NPC Selection",
+        "guiName": "NPC Selection",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js",
+        "settingsAutosaveOnClose": true,
+        "reloadable": true
+    },
+    "servers": ["https://raw.githubusercontent.com/palvaloo/Banker/master/"]
 }
