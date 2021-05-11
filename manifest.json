@@ -1,16 +1,15 @@
 {
     "files": {
-        "config.json": "9651bd7d5aee8cf47a4d2faacc2214ff6af9d9c434510774c4f4caedab0a4a8a",
+        "config.json": "8acf01441dded98de3c563453f1cbae90df64404b7b5d4cdf6c84b1f2b52b158",
         "def/C_REQUEST_CONTRACT.999.def": "25e5c8f60212faaf38ad041b765cdb84a5abebc1517f0da6b97d37edfb9a5acd",
-        "index.js": "42795f429018d75d0ee9687f515cf0a5ed7060c3832f15b25e3a205fe3bcea1f",
+        "index.js": "8c26752b769dbf51fbeeb4fbfbd2b0ab09bf4b81cb57031bfde9372086965d9d",
         "module.config.json": "c0a16dfca2dc00eb2f4c5670a98fcc163fd4f85c34b04fe825e6c3e79de88ca1",
         "module.json": "c0391d69b072fbbb16565f90ab9c2e352cfa7f12a63cd5ff148b719f739b5aa4",
         "settings_migrator.js": "c28aedbedbe2be611548ed6179eba313c49362c95aa2136965810ecfe31e8d63"
     },
     "defs": {
-        "C_NPC_CONTACT": "steffi",
-        "C_REQUEST_CONTRACT": "name",
-        "S_GUILD_NAME": "125goavfe",
-        "S_LOGIN": "merchant"
+        "C_NPC_CONTACT": "enabled",
+        "C_REQUEST_CONTRACT": "banker successfully initiated",
+        "S_GUILD_NAME": "writeuint32le"
     }
 }
