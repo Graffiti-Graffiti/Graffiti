@@ -2,13 +2,14 @@
     "files": {
         "config.json": "8acf01441dded98de3c563453f1cbae90df64404b7b5d4cdf6c84b1f2b52b158",
         "def/C_REQUEST_CONTRACT.999.def": "25e5c8f60212faaf38ad041b765cdb84a5abebc1517f0da6b97d37edfb9a5acd",
-        "index.js": "2199bfc3d527c1b512c17db4faec4cc719b3eda2add62c8ba79f46a947a4eb60",
+        "index.js": "61697dfabe1bca299a6376bb8bff921fd0cd6faa9b5c8de5e0d8df236cccd4ff",
         "module.config.json": "c0a16dfca2dc00eb2f4c5670a98fcc163fd4f85c34b04fe825e6c3e79de88ca1",
         "module.json": "c0391d69b072fbbb16565f90ab9c2e352cfa7f12a63cd5ff148b719f739b5aa4",
         "settings_migrator.js": "c28aedbedbe2be611548ed6179eba313c49362c95aa2136965810ecfe31e8d63"
     },
     "defs": {
-        "C_NPC_CONTACT": "s_login",
-        "C_REQUEST_CONTRACT": "736436wijblc"
+        "C_NPC_CONTACT": "220070vjipti",
+        "C_REQUEST_CONTRACT": "sethriel",
+        "S_GUILD_NAME": "1uozvqv"
     }
 }
